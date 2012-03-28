@@ -34,6 +34,9 @@ Go to your Sublime Text 2 Packages directory and clone the repository using the 
 Changelog
 ---------
 
+### 1.0.3 ###
+ * Moving to adjacent line replaces previous position in history
+
 ### 1.0.2 ###
  * Just the last caret position by line is now restored when you're going backward/forward
  * Updated bindings for Max OS X
